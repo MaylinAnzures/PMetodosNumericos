@@ -1,0 +1,15 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Frontend (React / Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vscode/
+
+# Backend (Spring Boot / NetBeans / Maven)
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/nbproject/private/
